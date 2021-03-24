@@ -1,5 +1,5 @@
 # [Fruit Catcher]( https://dibyayan8992.github.io/Fruit-Catcher-2/)</h2>
-Cut/Destroy All The Fruits With Your Knife | Enjoy !
+Cut / Destroy All The Fruits With Your Knife | Enjoy !
 
 ![alt text](FC2.PNG)
 <p align="center">
