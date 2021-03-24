@@ -1,21 +1,21 @@
-# [<img src="logo.png">]( https://dibyayan8992.github.io/Singfy/)</h2>
-Listen to songs | Upload Songs | Realtime | Enjoy! |
+# [Fruit Catcher]( https://dibyayan8992.github.io/Fruit-Catcher-2/)</h2>
+Cut/Destroy All The Fruits With Your Knife | Enjoy !
 
-![alt text](cover.png)
+![alt text](FC2.PNG)
 <p align="center">
-  <b><i>Singfy Homepage</i></b>
+  <b><i>Fruit Catcher</i></b>
 
 <br />
 <hr />
 
-<h2>Singfy</h2>
+<h2>Fruit Catcher</h2>
 
-<h3>Listen and Upload Songs</h3>
+<h3>The Best Game Ever</h3>
 
-Singfy Is Music Web App Where You Can Listen To Your Favourite Songs And Upload Songs Of Your Choice 
-For Others To Enjoy. It Is A Realtime Online App Storing All Songs Thumbnails And Artists In A Realtime
-Database And Cloud Storage. Enjoy!
+In This Game You Have To Cut All The Fruits With Your Knife...If Any One Of The Missiles Touched With Your Knife The Game Will Over...This Is Best Game Ever...Thank You For Playing My Game...
 
-Check It Out [Here]( https://dibyayan8992.github.io/Singfy/)
- 
+Created By Dibyayan Kar
+
+Check It Out [Here]( https://dibyayan8992.github.io/Fruit-Catcher-2/)
+
 <h3 align="center">Have A Nice Day Ahead !!!</h3>
